@@ -1,0 +1,77 @@
+# C++
+*.o
+*.so
+
+# CSASdown
+_book
+csas-style
+knitr-cache-docx
+knitr-cache-pdf
+knitr-cache-tex
+knitr-figs-docx
+knitr-figs-pdf
+reference-materials
+models*
+resdoc.Rmd
+resdoc.tex
+*.knit.md
+
+# Data
+*.Rdata
+*.csv
+*.rda
+*.xls
+*.xlsx
+
+# Emacs
+*.org#
+*~*
+
+# Latex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+ltximg/
+
+# Mac OSX
+.DS_Store
+
+# Misc
+*.sty
+*.upa
+*.utf8.md
+*.dll
+*.jpg
+*.html
+
+# R
+.Rapp.history
+.Rhistory
+
+# Rstudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.here
+
+# Targets
+_targets/
+
+# Tex
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.gz
+*.log
+*.odt
+*.out
+*.tex
+
+# Vignettes
+inst/doc
